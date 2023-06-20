@@ -2,11 +2,7 @@
     "name": "saidqb/filacms",
     "description": "build with filamentphp, just learn",
     "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Saidqb\\Filacms\\": "src/"
-        }
-    },
+    "license": "MIT",
     "require": {
         "php": "^8.0 | ^8.1",
         "alperenersoy/filament-export": "^0.3.2",
@@ -28,6 +24,11 @@
         "ralphjsmit/tall-interactive": "^0.9.0",
         "spatie/laravel-permission": "^5.10",
         "calebporzio/sushi": "^2.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Saidqb\\Filacms\\": "src/"
+        }
     },
     "require-dev": {
         "orchestra/testbench": "^7.0"
