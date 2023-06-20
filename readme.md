@@ -8,8 +8,9 @@ Instalation:
 composer require saidqb/filacms
 ```
 Contributor:
-```
-saidqb (khomsa)
 
-danang
-```
+https://filamentphp.com/
+
+All Filament Community
+
+Special thank to community
