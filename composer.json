@@ -5,6 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0 | ^8.1",
+        "doctrine/dbal": "^3.6",
         "filament/filament": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
         "livewire/livewire": "^2.12",
