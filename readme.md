@@ -7,15 +7,19 @@ Laravel
 Filamentphp
 
 
-Instalation:
+Installation:
 ```
 composer require saidqb/filacms
 ```
 
 Contributor:
 
-https://filamentphp.com/
+```
+- khomsa (saidqb)
+- danang
 
-All Filament Community
+```
+
+https://filamentphp.com/
 
 Special thank to community
