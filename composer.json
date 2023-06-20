@@ -5,6 +5,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.0 | ^8.1",
+        "filament/filament": "^2.0",
+        "guzzlehttp/guzzle": "^7.2",
+        "livewire/livewire": "^2.12",
+        "nesbot/carbon": "^2.66",
         "alperenersoy/filament-export": "^0.3.2",
         "althinect/filament-spatie-roles-permissions": "^1.2",
         "awcodes/filament-quick-create": "^2.1",
