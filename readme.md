@@ -1,11 +1,9 @@
 Requirement:
-
-Php > 8.0
-
-Laravel
-
-Filamentphp
-
+```
+Php >=	8.1
+Laravel = 10
+Filamentphp = 2
+```
 
 Installation:
 ```
@@ -19,7 +17,6 @@ Contributor:
 - danang
 
 ```
-
-https://filamentphp.com/
+visit : https://filamentphp.com for more information
 
 Special thank to community
