@@ -42,7 +42,10 @@
         "awcodes/filament-curator": "^2.7",
         "vinkla/hashids": "^10.0",
         "dasundev/filament-access-secret": "^1.0",
-        "andrewdwallo/filament-selectify": "^1.0"
+        "andrewdwallo/filament-selectify": "^1.0",
+        "dutchcodingcompany/filament-socialite": "^0.2.6",
+        "owenvoke/blade-fontawesome": "^2.3",
+        "socialiteproviders/google": "^4.1"
     },
     "autoload": {
         "psr-4": {
