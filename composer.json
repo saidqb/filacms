@@ -45,7 +45,8 @@
         "andrewdwallo/filament-selectify": "^1.0",
         "dutchcodingcompany/filament-socialite": "^0.2.6",
         "owenvoke/blade-fontawesome": "^2.3",
-        "socialiteproviders/google": "^4.1"
+        "socialiteproviders/google": "^4.1",
+        "wiebenieuwenhuis/filament-char-counter": "^1.1"
     },
     "autoload": {
         "psr-4": {
