@@ -46,7 +46,8 @@
         "dutchcodingcompany/filament-socialite": "^0.2.6",
         "owenvoke/blade-fontawesome": "^2.3",
         "socialiteproviders/google": "^4.1",
-        "wiebenieuwenhuis/filament-char-counter": "^1.1"
+        "wiebenieuwenhuis/filament-char-counter": "^1.1",
+        "spatie/eloquent-sortable": "^4.0"
     },
     "autoload": {
         "psr-4": {
