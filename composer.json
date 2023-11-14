@@ -47,7 +47,8 @@
         "owenvoke/blade-fontawesome": "^2.3",
         "socialiteproviders/google": "^4.1",
         "wiebenieuwenhuis/filament-char-counter": "^1.1",
-        "spatie/eloquent-sortable": "^4.0"
+        "spatie/eloquent-sortable": "^4.0",
+        "usamamuneerchaudhary/commentify": "1.2"
     },
     "autoload": {
         "psr-4": {
