@@ -48,7 +48,8 @@
         "socialiteproviders/google": "^4.1",
         "wiebenieuwenhuis/filament-char-counter": "^1.1",
         "spatie/eloquent-sortable": "^4.0",
-        "usamamuneerchaudhary/commentify": "1.2"
+        "usamamuneerchaudhary/commentify": "1.2",
+        "maatwebsite/excel": "^3.1"
     },
     "autoload": {
         "psr-4": {
