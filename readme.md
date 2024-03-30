@@ -2,7 +2,7 @@ Requirement:
 ```
 Php >=	8.1
 Laravel = 10
-Filamentphp = 2
+Filamentphp = 3.0
 ```
 
 Installation:
