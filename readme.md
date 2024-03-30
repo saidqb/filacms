@@ -2,7 +2,14 @@ Requirement:
 ```
 Php >=	8.1
 Laravel = 10
-Filamentphp = 2
+```
+filament 2
+```
+pull branch 2.x
+```
+filament 3
+```
+pull branch 3.x
 ```
 
 Installation:
