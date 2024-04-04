@@ -34,6 +34,7 @@
         "squirephp/countries-en": "^3.3",
         "squirephp/currencies-en": "^3.3",
         "hasnayeen/themes": "^3.0",
+        "swisnl/filament-backgrounds": "^1.1",
         "vinkla/hashids": "^11.0"
     },
     "autoload": {
