@@ -39,7 +39,7 @@
         "awcodes/filament-tiptap-editor": "^2.5",
         "ryangjchandler/filament-navigation": "^0.5.0",
         "awcodes/shout": "^1.0",
-        "awcodes/filament-curator": "^2.7",
+        "awcodes/filament-curator": "^2.10",
         "vinkla/hashids": "^10.0",
         "dasundev/filament-access-secret": "^1.0",
         "andrewdwallo/filament-selectify": "^1.0",
